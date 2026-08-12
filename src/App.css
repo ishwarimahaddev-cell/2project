@@ -1,0 +1,38 @@
+.aa{
+    display: flex;
+    gap:20px;
+    margin-left:600px; 
+    margin-top: -15px;
+}
+.co{
+    background-color:lightskyblue ;
+    height: 40px;
+}
+.bu{
+  
+    color: aliceblue;
+     margin-top: 10px;
+    margin-left: 400px;
+}
+.BB{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 60px;
+  
+}
+.ss{
+    margin-top: 10px;
+    margin-left: 300px;
+}
+.Ab{
+    margin-top: 50px;
+    margin-left: 400px;
+}
+.mm{
+    margin-left: 300px;
+}
+.p{
+    background-color:navajowhite;
+    height: 150px;
+}
